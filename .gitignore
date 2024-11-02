@@ -1,3 +1,9 @@
 nseBhav/
 nseDelivery/
 nseIndices/
+temp/
+raw/
+
+*.zip
+indices.json
+*.pkl
