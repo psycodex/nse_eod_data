@@ -1,0 +1,101 @@
+symbol,companyName,isin,industry
+MAZDOCK,Mazagon Dock Shipbuilders Limited,INE249Z01012,Ship Building & Allied Services
+HINDPETRO,Hindustan Petroleum Corporation Limited,INE169701013,Refineries & Marketing
+BIOCON,Biocon Limited,INE376G01013,Pharmaceuticals
+DEEPAKNTR,Deepak Nitrite Limited,INE288B01029,Specialty Chemicals
+SYNGENE,Syngene International Limited,INE398R01022,Healthcare Research Analytics & Technology
+PRESTIGE,Prestige Estates Projects Limited,INE811K01011,Residential Commercial Projects
+APLAPOLLO,APL Apollo Tubes Limited,INE702C01027,Iron & Steel Products
+PAYTM,One 97 Communications Limited,INE982J01020,Financial Technology (Fintech)
+AUBANK,AU Small Finance Bank Limited,INE949L01017,Other Bank
+ALKEM,Alkem Laboratories Limited,INE540L01014,Pharmaceuticals
+BSE,BSE Limited,INE118H01025,Exchange and Data Platform
+UPL,UPL Limited,INE628A03016,Pesticides & Agrochemicals
+LAURUSLABS,Laurus Labs Limited,INE947Q01028,Pharmaceuticals
+BALKRISIND,Balkrishna Industries Limited,INE787D01026,Tyres & Rubber Products
+FACT,Fertilizers and Chemicals Travancore Limited,INE188A01015,Fertilizers
+MAXHEALTH,Max Healthcare Institute Limited,INE027H01010,Hospital
+BDL,Bharat Dynamics Limited,INE171Z01026,Aerospace & Defense
+POLICYBZR,PB Fintech Limited,INE417T01026,Financial Technology (Fintech)
+SUNTV,Sun TV Network Limited,INE424H01027,TV Broadcasting & Software Production
+LALPATHLAB,Dr. Lal Path Labs Ltd.,INE600L01024,Healthcare Service Provider
+LUPIN,Lupin Limited,INE326A01037,Pharmaceuticals
+APOLLOTYRE,Apollo Tyres Limited,INE438A01022,Tyres & Rubber Products
+PETRONET,Petronet LNG Limited,INE347G01014,LPG/CNG/PNG/LNG Supplier
+BHARATFORG,Bharat Forge Limited,INE465A13020,Auto Components & Equipments
+CUMMINSIND,Cummins India Limited,INE298A01020,Compressors Pumps & Diesel Engines
+IPCALAB,IPCA Laboratories Limited,INE571A01038,Pharmaceuticals
+TORNTPOWER,Torrent Power Limited,INE813H01021,Integrated Power Utilities
+MRF,MRF Limited,INE883A01011,Tyres & Rubber Products
+MANKIND,Mankind Pharma Limited,INE634S01028,Pharmaceuticals
+TIINDIA,Tube Investments of India Limited,INE974X01010,Auto Components & Equipments
+HDFCAMC,HDFC Asset Management Company Limited,INE127D01025,Asset Management Company
+ACC,ACC Limited,INE012A01025,Cement & Cement Products
+ASTRAL,Astral Limited,INE006I01046,Plastic Products - Industrial
+DALBHARAT,Dalmia Bharat Limited,INE00R701025,Cement & Cement Products
+OBEROIRLTY,Oberoi Realty Limited,INE093I01010,Residential Commercial Projects
+PIIND,PI Industries Limited,INE603J01030,Pesticides & Agrochemicals
+POONAWALLA,Poonawalla Fincorp Limited,INE511C07698,Non Banking Financial Company (NBFC)
+BANDHANBNK,Bandhan Bank Limited,INE545U01014,Private Sector Bank
+KALYANKJIL,Kalyan Jewellers India Limited,INE303R01014,Gems Jewellery And Watches
+M&MFIN,Mahindra & Mahindra Financial Services Limited,INE774D08MG3,Non Banking Financial Company (NBFC)
+JSWENERGY,JSW Energy Limited,INE121E01018,Power Generation
+AUROPHARMA,Aurobindo Pharma Limited,INE406A01037,Pharmaceuticals
+GMRINFRA,GMR Airports Infrastructure Limited,INE776C01039,Airport & Airport services
+ZEEL,Zee Entertainment Enterprises Limited,INE256A04022,TV Broadcasting & Software Production
+LICHSGFIN,LIC Housing Finance Limited,INE115A01026,Housing Finance Company
+ESCORTS,Escorts Kubota Limited,INE042A01014,Tractors
+SUPREMEIND,Supreme Industries Limited,INE195A01028,Plastic Products - Industrial
+NHPC,NHPC Limited,INE848E07542,Power Generation
+ASHOKLEY,Ashok Leyland Limited,INE208A01029,Commercial Vehicles
+SONACOMS,Sona BLW Precision Forgings Limited,INE073K01018,Auto Components & Equipments
+INDHOTEL,The Indian Hotels Company Limited,INE053A13016,Hotels & Resorts
+GODREJPROP,Godrej Properties Limited,INE484J01027,Residential Commercial Projects
+MAHABANK,Bank of Maharashtra,INE457A01014,Public Sector Bank
+CGPOWER,CG Power and Industrial Solutions Limited,INE067A01029,Heavy Electrical Equipment
+DELHIVERY,Delhivery Limited,INE148O01028,Logistics Solution Provider
+GLAND,Gland Pharma Limited,INE068V01023,Pharmaceuticals
+MFSL,Max Financial Services Limited,INE180A01020,Life Insurance
+UNIONBANK,Union Bank of India,INE692A01016,Public Sector Bank
+PEL,Piramal Enterprises Limited,INE140A01024,Non Banking Financial Company (NBFC)
+POLYCAB,Polycab India Limited,INE455K01017,Cables - Electricals
+BANKINDIA,Bank of India,INE084A01016,Public Sector Bank
+TATATECH,Tata Technologies Limited,INE142M01025,IT Enabled Services
+IGL,Indraprastha Gas Limited,INE203G01027,LPG/CNG/PNG/LNG Supplier
+SUZLON,Suzlon Energy Limited,INE040H01021,Heavy Electrical Equipment
+IDBI,IDBI Bank Limited,INE008A08267,Private Sector Bank
+IDFCFIRSTB,IDFC First Bank Limited,INE092T08CP8,Private Sector Bank
+CONCOR,Container Corporation of India Limited,INE111A01025,Logistics Solution Provider
+JUBLFOOD,Jubilant Foodworks Limited,INE797F01020,Restaurants
+YESBANK,Yes Bank Limited,INE528G01035,Private Sector Bank
+IDEA,Vodafone Idea Limited,INE669E01016,Telecom - Cellular & Fixed line services
+PAGEIND,Page Industries Limited,INE761H01022,Garments & Apparels
+SAIL,Steel Authority of India Limited,INE114A01011,Iron & Steel
+RVNL,Rail Vikas Nigam Limited,INE415G01027,Civil Construction
+PATANJALI,Patanjali Foods Limited,INE619A01035,Edible Oil
+JSWINFRA,JSW Infrastructure Limited,INE880J01026,Port & Port services
+PERSISTENT,Persistent Systems Limited,INE262H01021,Computers - Software & Consulting
+COFORGE,Coforge Limited,INE591G01017,Computers - Software & Consulting
+KPITTECH,KPIT Technologies Limited,INE04I401011,Computers - Software & Consulting
+ABCAPITAL,Aditya Birla Capital Limited,INE674K01013,Investment Company
+TATACOMM,Tata Communications Limited,INE151A01013,Telecom - Cellular & Fixed line services
+LTTS,L&T Technology Services Limited,INE010V01017,IT Enabled Services
+DIXON,Dixon Technologies (India) Limited,INE935N01020,Consumer Electronics
+VOLTAS,Voltas Limited,INE226A01021,Household Appliances
+TATAELXSI,Tata Elxsi Limited,INE670A01012,Computers - Software & Consulting
+LODHA,Macrotech Developers Limited,INE670K01029,Residential Commercial Projects
+SJVN,SJVN Limited,INE002L01015,Power Generation
+ABFRL,Aditya Birla Fashion and Retail Limited,INE647O13016,Speciality Retail
+NMDC,NMDC Limited,INE584A01023,Industrial Minerals
+INDUSTOWER,Indus Towers Limited,INE121J01017,Telecom - Infrastructure
+LTF,L&T Finance Limited,INE498L01015,Investment Company
+NYKAA,FSN E-Commerce Ventures Limited,INE388Y01029,E-Retail/ E-Commerce
+TATACHEM,Tata Chemicals Limited,INE344201012,Commodity Chemicals
+MPHASIS,MphasiS Limited,INE356A01018,Computers - Software & Consulting
+GUJGASLTD,Gujarat Gas Limited,INE844O01030,LPG/CNG/PNG/LNG Supplier
+INDIANB,Indian Bank,INE562A01011,Public Sector Bank
+OFSS,Oracle Financial Services Software Limited,INE881D01027,Software Products
+FEDERALBNK,The Federal Bank  Limited,INE171A01029,Private Sector Bank
+BHEL,Bharat Heavy Electricals Limited,INE257A01026,Heavy Electrical Equipment
+FORTIS,Fortis Healthcare Limited,INE061F13018,Hospital
+OIL,Oil India Limited,INE274J01014,Oil Exploration & Production
